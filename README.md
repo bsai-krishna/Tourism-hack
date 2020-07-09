@@ -5,7 +5,7 @@ This project demonstration involves the use of 'HTML, CSS, JavaScript, AJAX, JSO
 
 I have created three files for the project demonstration. The first one is named web2.html. And this is the home page of the website.
 
-The second file is named weather.html. You can see the live version of that project by going on my codepen id                             ( https://codepen.io/sanchit0496/full/ZxLRoG/ ), in case the API doesn't respond well on your computer. 
+The second file is named weather.html. You can see the live version of that project , in case the API doesn't respond well on your computer. 
 It gives the present latitude and longitude of the location of the device, as well as several weather conditions like humidity, wind speed, minimum temperature, maximum temperature etc. Using the latitude and longitude, a person can spot his position and save himself from getting lost.
 
 The third file is named info.html. This file contains information about the Chittorgarh Fort. The History of Chittorgarh, The Tourism at Chittorgarh, The Fairs and Festivals, and How to Reach That Place. 
